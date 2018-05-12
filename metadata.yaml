@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: 'Translation of: Szent Péter esernyője'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31945#St.-Peter-s-Umbrella--A-Novel
 gutenberg_issued: '2010-04-11'
 gutenberg_type: Text
 identifiers:
